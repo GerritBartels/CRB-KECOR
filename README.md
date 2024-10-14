@@ -239,7 +239,6 @@ We provide several options for active learning algorithms, including
 - BADGE sampling [`badge`]
 - CRB sampling [`crb`]
 
-
 You could optionally add extra command line parameters `--batch_size ${BATCH_SIZE}` and `--epochs ${EPOCHS}` to specify your preferred parameters. 
 
 * Train:

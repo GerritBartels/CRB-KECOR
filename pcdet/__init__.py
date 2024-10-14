@@ -1,6 +1,7 @@
 import subprocess
 from pathlib import Path
 
+# !!! Version related code was commented out in KECOR Repo
 from .version import __version__
 
 __all__ = [
